@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Peter <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate student from 42Madrid and a junior Full-Stack Developer.</h3>
 
-- 🔭 I’m currently working on my **42Madrid Guide, HackTheBox Machines and AWS Cloud**
+- 🔭 I’m currently working on my **RMX3370 trees & kernel and AWS Cloud Architect Associate Certification**
 
 - 🌱 I’m currently learning **C, Javascript, Python**
 
