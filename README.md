@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Blackmanx.Blackmanx">
 <h1 align="center">Hi 👋, I'm Peter <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate student from 42Madrid and a junior Full-Stack Developer.</h3>
+<h3 align="center">A passionate student from 42Madrid and an AWS Certified Solutions Architect.</h3>
 
 - 🔭 I’m currently working on my **RMX3370 trees & kernel and AWS Cloud Architect Associate Certification**
 
