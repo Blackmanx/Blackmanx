@@ -60,5 +60,3 @@
 ------
 
 [Blackmanx](https://github.com/Blackmanx)
-
-Last Edited on: 9/20/2022
