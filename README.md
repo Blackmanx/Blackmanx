@@ -1,22 +1,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Blackmanx.Blackmanx">
 <h1 align="center">Hi 👋, I'm Peter <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">An AOSP developer and an AWS Certified Solutions Architect.</h3>
+<h3 align="center">A fullstack developer and an AWS Certified Solutions Architect.</h3>
 
-- 🔭 I’m currently working on my **RMX3370 trees & kernel and AWS Training Labs**
+- 🔭 I’m currently working on **personal scrripts/web development for a cybersecurity application**
 
-- 🌱 I’m currently learning **C, Javascript, Python**
+- 🌱 I’m currently learning **Angular, Kotlin, Java**
 
-- 👯 I’m looking to collaborate on **Custom ROM development, Front/Back-end projects.**
+- 👯 I’m looking to collaborate on **Android Development / Front or Back of web applications**
 
-- 📫 How to reach me: **blackman@sajl.tk**
+- 📫 How to reach me: **blackman@sajl.cc**
 
-- ⚡ What I like to do: **Reading, playing videogames, tweaking with Android and Custom ROMs, analyzing code...**
+- ⚡ What I like to do: **Tweaking with Android stuff**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-manuel-rodrigo-manzanares-blackmanx)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blackman@sajl.tk)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmrm/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blackman@sajl.cc)
   
 </div>
 
